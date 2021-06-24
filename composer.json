@@ -1,0 +1,11 @@
+{
+    "require": {
+<<<<<<< HEAD
+        "firebase/php-jwt": "^5.4",
+        "vlucas/phpdotenv": "^5.3"
+=======
+        "vlucas/phpdotenv": "^5.3",
+        "firebase/php-jwt": "^5.4"
+>>>>>>> 788e068fa2430dd916722984a1d50ea7b9cab1a8
+    }
+}
